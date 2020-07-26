@@ -1,0 +1,6 @@
+numpy==1.19.1
+PyAudio==0.2.11
+PySimpleGUI==4.26.0
+sdl==0.0.0
+simpleaudio==1.0.4
+Wave==0.0.2
